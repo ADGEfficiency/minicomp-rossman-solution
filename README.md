@@ -2,7 +2,7 @@
 
 A model solution to the [Rossman Mini-Competition](https://github.com/ADGEfficiency/minicomp-rossman).
 
-This project is built using a [cookie-cutter-data-science]() template.
+This project is built using a [cookie-cutter-data-science](https://github.com/ADGEfficiency/cookie-cutter-data-science) template.
 
 
 ## Setup
